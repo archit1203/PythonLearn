@@ -7,6 +7,6 @@ Lambda Function
 """
 
 """Eg 1"""
-sum = lambda x , y : x+y
+# sum = lambda x , y : x+y
 
-print("Sum: ",sum(2,3))
+# print("Sum: ",sum(2,3))
