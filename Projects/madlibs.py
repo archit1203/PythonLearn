@@ -1,4 +1,0 @@
-"""
-MADLIBS GENERATOR
-
-"""
